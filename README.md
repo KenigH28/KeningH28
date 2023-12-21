@@ -29,6 +29,7 @@ Councillor Wilson Lo states that more charging stations should be installed betw
 Lo mentions that private companies will notice the market of charging stations when there is a demand. 
 He raises another potential issue: whether the government can provide stable electricity for all the charging stations (including home charging, government funds, and private companies funds). 
 ![screenshot of interview with Wilson Lo](screenshot_of_interview_with_councillor_Lo.jpg)
-#### Conclusion
+
+## Conclusion
 The current trend for vehicles in Canadian society is shifting to EVs. People are buying more zero-emission vehicles as their new car not only because of the awareness of being environmentally friendly but also the government announcement and cheaper price for charging it. We can predict the future will be full of electric vehicles and this future will happen soon. However, the charging facilities need more effort to keep up with the ownership and it needs the entire society to make the effort including citizens, the government, and private enterprises. 
 ![charging station in winter](/charging_station2.jpg)
