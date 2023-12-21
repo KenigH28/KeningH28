@@ -16,18 +16,18 @@ In the dataset, there are several cases where multiple charging stations share o
 ### Analysis
 From the chart, we can see that the frequency of the charging stations’ usage is led by the charging station located in City Hall. Throughout the entire 2022, the infrastructure is used 908 times, but the average time of each charging is around 109 minutes. The charging station located in Chapel Hill Park N Ride leads the average charging time with approximately 405 minutes. This number is outstanding from the dataset because the majority of the average charging time is around 100-200. The number illustrates people who travel to the Chapel Hill Park N Ride use the charging station for a longer time. I assume the reasons for this situation might be the lack of home charging in the surrounding area or the purpose people visit this location. The rest of the charging infrastructures are located in the residential zone or on the street. However, the number of charging frequencies in 1551 Lycée Place is the lowest. This situation is abnormal because the charging station located at 1551 Lycée Place is near an apartment building. I assume that the ownership of EVs around the charging station is low so it leads to low demand for EV charging stations. <br>
 Moreover, the coordination of the charging station indicate the distribution of charging stations. The map is conducted based on the data from the columns POINT_X and POINT_Y as the longitude and latitude and each location is labeled based on the Station. Inputting the cleaned dataset that contains POINT_X, POINT_Y and Site into the Google My Map to generate the map demonstrates the locations of each charging station. 
-![coordinations of the charging stations](/The%20coordination%20for%20charging%20stations.jpg)
+![coordinations of the charging stations](Coordination_map.jpg)
 <br>
 The data shown previously indicates that we need more charging stations in Ottawa. 
 Councillor Shawn Menard also states in a phone interview
-![phone interview with Shawn Menard](/screenshot%20of%20phone%20interview%20with%20councollor%20Menard.PNG)
+![phone interview with Shawn Menard](/screenshot_of_phone_interview_with_councollor_Menard.PNG)
 “The charging station is not enough because people worry about ranging anxiety and where they are going to charge.” 
 “We need to spread this around the city and some connection points between destinations.”
 The charging station cannot only be distributed in the urban core of Ottawa. The charging facilities need to be spread widely with the consideration of population distributions. 
 Councillor Wilson Lo states that more charging stations should be installed between cities and rural areas.
 Lo mentions that private companies will notice the market of charging stations when there is a demand. 
 He raises another potential issue: whether the government can provide stable electricity for all the charging stations (including home charging, government funds, and private companies funds). 
-![screenshot of interview with Wilson Lo](/screenshot%20of%20interview%20with%20councillor%20Lo.jpg)
+![screenshot of interview with Wilson Lo](screenshot_of_interview_with_councillor_Lo.jpg)
 #### Conclusion
 The current trend for vehicles in Canadian society is shifting to EVs. People are buying more zero-emission vehicles as their new car not only because of the awareness of being environmentally friendly but also the government announcement and cheaper price for charging it. We can predict the future will be full of electric vehicles and this future will happen soon. However, the charging facilities need more effort to keep up with the ownership and it needs the entire society to make the effort including citizens, the government, and private enterprises. 
 ![charging station in winter](/charging_station2.jpg)
